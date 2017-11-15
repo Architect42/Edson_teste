@@ -1,7 +1,7 @@
 <?php
     $host = "localhost";
     $usuario = "root";
-    $senha = "1234";
+    $senha = "";
     $bd = "TESTEWEB2";
     
     $mysqli = new mysqli($host, $usuario, $senha, $bd);
